@@ -3,9 +3,11 @@
 Exploratory data analysis on electric vehicle registrations in the United States.
 
 ## Key Findings
-- Total EVs analyzed: [número que apareceu no print do KEY FINDINGS]
-- Most popular brand: [marca que apareceu]
-- Most popular model: [modelo que apareceu]
+- Total EVs analyzed: 280,833
+- Most popular brand: Tesla
+- Most popular model: Model Y
+- Most common year: 2023
+- Total unique brands: 47
 - Significant growth in EV adoption after 2020
 
 ## Visualizations
